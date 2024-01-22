@@ -1,0 +1,16 @@
+@media (max-width:992px){
+    .team-section .content{
+            width: 50%;
+            margin-bottom: 90px;
+    }
+}
+@media (max-width:590px){
+    .team-section .content{
+            width: 100%;
+    }
+}
+@media (min-width:992px) and (max-width:1200px){
+    .about h6{
+        margin-top: 30px !important;
+    }
+}

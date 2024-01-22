@@ -1,0 +1,75 @@
+
+
+img{
+    max-width: 100%;
+}
+
+.about a{
+    transition: .5s !important;
+}
+
+.about a:hover{
+    background: #17A2B8 !important;
+    overflow: hidden;
+}
+
+.banner .content a {
+    transition: .5s !important;
+}
+.banner .content a:hover{
+    background: #17A2B8 !important;
+    overflow: hidden;
+}
+/* HEADER */
+
+.header{
+    background: #fff;
+}
+.header .navbar-brand img{
+    width: 100px;
+}
+
+/* BANNER SECTION */
+.banner h6{
+    margin-top: 140px;
+}
+
+/* SERVICES */
+.services .card{
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.18);
+}
+
+.services .card a{
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.18);
+}
+
+/* TEAM SECTION */
+.team-section .team{
+    position: relative;
+}
+.team-section .team .img {
+    position: absolute;
+    top: -57px;
+    left: 27px;
+    width: 72px;
+}
+.team-section .team a{
+    transition: .5s;
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.18);
+
+}
+
+.team-section .team a:hover{
+    background: #8490FF;
+    color: #fff;
+    overflow: hidden;
+}
+
+.team-section .team{
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.18);
+}
+
+/* CONTACT */
+.contact-form{
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.18);
+}
